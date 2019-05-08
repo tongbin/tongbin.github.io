@@ -15,11 +15,11 @@ theme                  : "contrast"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "Front-end daily"
+locale                   : "en-US"
+title                    : "Front-end Fortnightly"
 title_separator          : "-"
 name                     : "Tongbin"
-description              : "That's it"
+description              : "Cache Up"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Tongbin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "React, Data Visualization"
+  bio              : "It's never too late."
   location         : "China"
-  email            :
+  email            : xtongbin@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
