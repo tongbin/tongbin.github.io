@@ -12,14 +12,14 @@
 
 theme                  : "contrast"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Front-end Fortnightly"
+title                    : "The world is flat"
 title_separator          : "-"
 name                     : "Tongbin"
-description              : "Cache Up"
+description              : "Front end engineer"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,13 +102,13 @@ analytics:
 author:
   name             : "Tongbin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "It's never too late."
-  location         : "China"
+  bio              : "You'll miss nothing important."
+  location         : "Beijing, China"
   email            : xtongbin@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:tongbin.xtb@gmail.com
+      # url: mailto:tongbin.xtb@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
